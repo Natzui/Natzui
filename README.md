@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I perform penetration testing on systems to identify vulnerabilities, highlight flaws, and help improve security.  <br><br>📚 I’m currently exploring and learning how Blockchain technology     works.  <br><br>🎯  Goals: To grow my expertise and one day become part of a group like DedSec.  <br><br>🎲 Fun Fact: I always view money is the operating system of the world.</p>
+<p align="left">✨ I perform penetration testing on systems to identify vulnerabilities, highlight flaws, and help improve security.  <br><br>📚 I’m currently exploring and learning how Blockchain technology     works.  <br><br>🎯  Goals: To grow my expertise and one day become part of a group like DedSec.  <br><br>🎲 Fun Fact: Money is the operating system of the world.</p>
 
 ###
 
@@ -46,6 +46,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">Social Media</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
