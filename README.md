@@ -10,7 +10,7 @@
 <p align="left">
   ✨ I perform penetration testing on systems to identify vulnerabilities, highlight flaws, and help improve security. <br><br>
   📚 I’m currently exploring and learning how Blockchain technology works. <br><br>
-  🎯 Goals: To grow my expertise and one day become part of a group like DedSec. <br><br>
+  🎯 Goals: To grow my expertise. <br><br>
   🎲 Fun Fact: Money is the operating system of the world.
 </p>
 
