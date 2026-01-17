@@ -36,5 +36,5 @@
 <h3 align="left">Join Us!</h3>
 
 <div align="left">
-  <img src="https://i.ytimg.com/vi/RYuesoKNULg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6TFz_5IT8NSV3WtyB_0C2fdLRzg" alt="DedSec Logo" width="400"/>
+  <img src="https://i.ytimg.com/vi/RYuesoKNULg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6TFz_5IT8NSV3WtyB_0C2fdLRzg" alt="DedSec Logo" width="750"/>
 </div>
