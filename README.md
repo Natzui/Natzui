@@ -11,7 +11,6 @@
   ✨ I perform penetration testing on systems to identify vulnerabilities, highlight flaws, and help improve security. <br><br>
   📚 I’m currently exploring and learning how Blockchain technology works. <br><br>
   🎯 Goals: To grow my expertise. <br><br>
-  🎲 Fun Fact: Money is the operating system of the world.
 </p>
 
 <h2 align="left">I can do</h2>
