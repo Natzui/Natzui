@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 </div>
 
-<h3 align="left">Join Dedsec!</h3>
+<h3 align="left">Dedsec dominate hack4gov</h3>
 
 <div align="left">
   <img src="https://i.ytimg.com/vi/RYuesoKNULg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6TFz_5IT8NSV3WtyB_0C2fdLRzg" alt="DedSec Logo" width="1950"/>
