@@ -2,13 +2,12 @@
 
 <p align="left">
   My name is Nathan, also known by my code name Natzui. <br>
-  I’m a passionate Cybersecurity Engineering Enthusiast from the Philippines.
 </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ I perform penetration testing on systems to identify vulnerabilities, highlight flaws, and help improve security. <br><br>
+  ✨ I perform load testing on systems to identify vulnerabilities, highlight flaws, and help improve security. <br><br>
   📚 I’m currently exploring and learning how Blockchain technology works. <br><br>
 </p>
 
